@@ -12,6 +12,7 @@ This project applies machine learning techniques to analyze data and create a pr
 
 ## **Data Source**
 The dataset used in this project is stored in a structured format and was retrieved using **PySpark**. It consists of various features used to train and validate the model.
+The datasets were downloaded from Kaggle.com: https://www.kaggle.com/datasets/uciml/zoo-animal-classification. 
 
 ## **Project Workflow**
 1. **Data Loading**: The dataset is loaded using PySpark queries.
